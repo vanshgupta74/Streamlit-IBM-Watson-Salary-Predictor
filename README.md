@@ -34,4 +34,12 @@ To build an intelligent web-based salary prediction tool that:
 
 ---
 
+## 📷 Screenshots
+
+### 🧾 User Input Form
+![Form UI](C:\Users\Vansh Gupta\OneDrive\Pictures\Screenshots\Screenshot 2025-07-11 122831.png)
+
+### 💰 Salary Prediction Output
+![Prediction Output](C:\Users\Vansh Gupta\OneDrive\Pictures\Screenshots\Screenshot 2025-07-11 122937.png)
+
  
